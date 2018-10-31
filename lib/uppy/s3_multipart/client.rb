@@ -1,4 +1,4 @@
-require "aws-sdk-s3"
+require "aws-sdk"
 
 module Uppy
   module S3Multipart
