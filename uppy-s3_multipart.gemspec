@@ -14,7 +14,7 @@ Gem::Specification.new do |gem|
   gem.require_path = "lib"
 
   gem.add_dependency "roda", ">= 2.27", "< 4"
-  gem.add_dependency "aws-sdk", "~> 2.2.0"
+  gem.add_dependency "aws-sdk", "~> 2.11.0"
 
   gem.add_development_dependency "rake"
   gem.add_development_dependency "minitest"
